@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/38/DangerousMaze/src/gameentities/powerups
+END
+LightNarrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/LightNarrow.java
+END
+InstantDeath.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/InstantDeath.java
+END
+LightExpand.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/LightExpand.java
+END
+Scream.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/DangerousMaze/src/gameentities/powerups/Scream.java
+END
+Unstoppable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/Unstoppable.java
+END
+Enlarge.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/Enlarge.java
+END
+InstantWin.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/InstantWin.java
+END
+Teleport.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/Teleport.java
+END
+Shrink.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/powerups/Shrink.java
+END

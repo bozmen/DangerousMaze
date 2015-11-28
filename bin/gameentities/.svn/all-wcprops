@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/38/DangerousMaze/src/gameentities
+END
+MobileObstacle.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/DangerousMaze/src/gameentities/MobileObstacle.java
+END
+Light.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/DangerousMaze/src/gameentities/Light.java
+END
+Obstacle.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/28/DangerousMaze/src/gameentities/Obstacle.java
+END
+Character.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/Character.java
+END
+FixedObstacle.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/FixedObstacle.java
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/DangerousMaze/src/gameentities/GameObject.java
+END
+PowerUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/38/DangerousMaze/src/gameentities/PowerUp.java
+END
